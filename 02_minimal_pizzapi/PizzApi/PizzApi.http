@@ -1,0 +1,32 @@
+@pizzapi = http://localhost:5027
+@id = 4
+
+###
+GET {{pizzapi}}/pizzas
+Accept: application/json
+
+###
+GET {{pizzapi}}/pizzas/{{id}}
+Accept: application/json
+
+###
+POST {{pizzapi}}/pizzas
+Content-Type: application/json
+
+{
+    "id": {{id}},
+    "name": "Carnes Frias"
+}
+
+###
+PUT {{pizzapi}}/pizzas
+Content-Type: application/json
+
+{
+    "id": {{id}},
+    "name": "Carnes Frías"
+}
+
+###
+DELETE {{pizzapi}}/pizzas/{{id}}
+Accept: application/json

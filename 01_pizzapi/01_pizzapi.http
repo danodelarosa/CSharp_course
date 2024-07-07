@@ -1,0 +1,34 @@
+@_01_pizzapi_HostAddress = http://localhost:5003
+@pizza_id = 5
+
+###
+GET {{_01_pizzapi_HostAddress}}/pizza/
+Accept: application/json
+
+###
+GET {{_01_pizzapi_HostAddress}}/pizza/{{pizza_id}}
+Accept: application/json
+
+###
+POST {{_01_pizzapi_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
+PUT {{_01_pizzapi_HostAddress}}/pizza/{{pizza_id}}
+Content-Type: application/json
+
+{
+    "id": {{pizza_id}},
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+DELETE {{_01_pizzapi_HostAddress}}/pizza/{{pizza_id}}
+
+###

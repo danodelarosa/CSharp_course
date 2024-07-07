@@ -1,0 +1,35 @@
+Inicializar
+dotnet new web -o PizzApi -f net8.0
+
+Correr
+dot net run
+
+Agregar Swagger
+dotnet add package Swashbuckle.AspNetCore --version 6.5.0
+*verify that th dependecy was added to the PizzApi.csproj
+*add this code to your program.cs
+-old code
+using Microsoft.OpenApi.Models;
+
+-var builder = WebApplication.CreateBuilder(args);
+    
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+     c.SwaggerDoc("v1", new OpenApiInfo { Title = "PizzaStore API", Description = "Making the Pizzas you love", Version = "v1" });
+});
+    
+-var app = builder.Build();
+    
+if (app.Environment.IsDevelopment())
+{
+   app.UseSwagger();
+   app.UseSwaggerUI(c =>
+   {
+      c.SwaggerEndpoint("/swagger/v1/swagger.json", "PizzaStore API V1");
+   });
+}
+    
+-app.MapGet("/", () => "Hello World!");
+    
+-app.Run();

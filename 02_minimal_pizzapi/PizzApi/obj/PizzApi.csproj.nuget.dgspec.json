@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/02_minimal_pizzapi/PizzApi/PizzApi.csproj": {}
+  },
+  "projects": {
+    "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/02_minimal_pizzapi/PizzApi/PizzApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/02_minimal_pizzapi/PizzApi/PizzApi.csproj",
+        "projectName": "PizzApi",
+        "projectPath": "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/02_minimal_pizzapi/PizzApi/PizzApi.csproj",
+        "packagesPath": "/Users/d4n0/.nuget/packages/",
+        "outputPath": "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/02_minimal_pizzapi/PizzApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/d4n0/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

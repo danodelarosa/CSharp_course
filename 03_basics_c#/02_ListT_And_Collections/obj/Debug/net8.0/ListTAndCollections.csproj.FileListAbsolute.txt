@@ -1,0 +1,14 @@
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/bin/Debug/net8.0/ListTAndCollections
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/bin/Debug/net8.0/ListTAndCollections.deps.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/bin/Debug/net8.0/ListTAndCollections.runtimeconfig.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/bin/Debug/net8.0/ListTAndCollections.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/bin/Debug/net8.0/ListTAndCollections.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.AssemblyInfoInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.AssemblyInfo.cs
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.csproj.CoreCompileInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/refint/ListTAndCollections.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ListTAndCollections.genruntimeconfig.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/02_ListT_And_Collections/obj/Debug/net8.0/ref/ListTAndCollections.dll

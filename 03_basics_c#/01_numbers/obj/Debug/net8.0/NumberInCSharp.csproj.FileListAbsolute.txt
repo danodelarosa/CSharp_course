@@ -1,0 +1,14 @@
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.AssemblyInfoInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.AssemblyInfo.cs
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.csproj.CoreCompileInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/bin/Debug/net8.0/NumberInCSharp
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/bin/Debug/net8.0/NumberInCSharp.deps.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/bin/Debug/net8.0/NumberInCSharp.runtimeconfig.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/bin/Debug/net8.0/NumberInCSharp.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/bin/Debug/net8.0/NumberInCSharp.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/refint/NumberInCSharp.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/NumberInCSharp.genruntimeconfig.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/01_numbers/obj/Debug/net8.0/ref/NumberInCSharp.dll

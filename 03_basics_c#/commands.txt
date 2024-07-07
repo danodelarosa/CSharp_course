@@ -1,0 +1,6 @@
+dotnet new
+Muestra las cosas que puedes hacer
+
+dotnet new console
+
+dotnet new console -n NumberInCSharp -o .  

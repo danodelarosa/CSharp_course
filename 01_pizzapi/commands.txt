@@ -1,0 +1,14 @@
+dotnet --list-sdks
+mkdir folder_web_api
+dotnet new webapi -controllers -f net8.0
+
+dotnet run
+The preceding command:
+Locates the project file at the current directory.
+Retrieves and installs any required project dependencies for this project.
+Compiles the project code.
+Hosts the web API with the ASP.NET Core Kestrel web server at both an HTTP and HTTPS endpoint.
+A port from 5000 to 5300 is selected for HTTP, and from 7000 to 7300 for HTTPS, when the project is created. You can easily change the ports that you use during development by editing the project's launchSettings.json file. This module uses the secure localhost URL that begins with https.
+
+dotnet build
+dotnet run

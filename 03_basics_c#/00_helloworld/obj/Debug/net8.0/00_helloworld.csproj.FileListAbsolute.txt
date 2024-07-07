@@ -1,0 +1,14 @@
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/bin/Debug/net8.0/00_helloworld
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/bin/Debug/net8.0/00_helloworld.deps.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/bin/Debug/net8.0/00_helloworld.runtimeconfig.json
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/bin/Debug/net8.0/00_helloworld.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/bin/Debug/net8.0/00_helloworld.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.AssemblyInfoInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.AssemblyInfo.cs
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.csproj.CoreCompileInputs.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/refint/00_helloworld.dll
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.pdb
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/00_helloworld.genruntimeconfig.cache
+/Users/d4n0/Documents/web_apps_learning/microsoft_learning/03_basics_c#/00_helloworld/obj/Debug/net8.0/ref/00_helloworld.dll

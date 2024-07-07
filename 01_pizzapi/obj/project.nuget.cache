@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSo7BwH8jNSBiTNWeq1VFD25fs61y7sOAAHRl+JfnR2YyKB6cOWJxubhaZAyu/GTOPHZMPvkE80jXqND5DLtuQ==",
+  "success": true,
+  "projectFilePath": "/Users/d4n0/Documents/web_apps_learning/microsoft_learning/01_pizzapi/01_pizzapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/d4n0/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/d4n0/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/d4n0/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/d4n0/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/d4n0/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/d4n0/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

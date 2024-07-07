@@ -1,0 +1,11 @@
+dotnet new blazor -o BlazorApp
+
+Program.cs es el punto de entrada de la app que inicia el servidor y donde se configuran los servicios de la app y el middleware.
+Dentro del directorio Components:
+App.razor es el componente raíz de la aplicación.
+Routes.razor configura el enrutador de Blazor.
+El directorio Pages contiene algunas páginas web de ejemplo para la aplicación.
+BlazorApp.csproj define el proyecto de aplicación y sus dependencias.
+El archivo launchSettings.json dentro del directorio de Properties define diferentes configuraciones de perfil para el entorno de desarrollo local. Se asigna automáticamente un número de puerto al crear el proyecto y se guarda en este archivo.
+
+dotnet watch
